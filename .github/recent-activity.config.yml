@@ -1,1 +1,8 @@
-
+settings:
+  username: "barnett-yuxiang"
+  commit_msg: "Update README with the recent activity"
+  readme_file: "./EXAMPLE.md"
+  disabled_events:
+    - "comments"
+  date:
+    text: "Last Updated: {DATE} (GMT)"
