@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, you 뭘 보니? 👋
 
 <!--
 **barnett-yuxiang/barnett-yuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
