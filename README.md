@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Mobile Experience and Reliability
+- Engineering Productivity
+- Automation
+- Precise Testing
+- Code Coverage
+- AI for Testing
+- App Competitor Evaluation
+- Cloud Dev
+- ByTrace / ByteHunter
