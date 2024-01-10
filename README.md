@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - App Competitor Evaluation
 - Cloud Dev
 - ByTrace / ByteHunter
+- Method Trace: `nanoscope`
