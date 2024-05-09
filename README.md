@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - AI for Testing
 - App Competitor Evaluation
 - Cloud Dev
+- API Management
 - ByTrace / ByteHunter
 - Method Trace: `nanoscope`
