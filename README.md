@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - **Test Infra**: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
 - **Engineering Productivity**: `‌‍⁢‍‍​‌⁢‬⁡⁡⁡⁢⁢⁣‍‌​⁠⁡‍⁣‍﻿​⁤⁠﻿‬⁤​⁤‬‌‍‌‌​⁣‬﻿⁤‌⁣‌﻿​⁣‌‬RD Environment`, `App Competitor Evaluation`
 - **Quality and Experience**: `Precise Testing`, `Code Coverage`
-- **Cloud Dev**: `ByteSuite`, `API Management`
+- **Cloud Dev**: `ByteSuite`, `Observability`, `API Management`
 - **AI for Testing**
 - **Mobile Experience and Reliability** [`@CapCut`](https://www.capcut.com)
 
