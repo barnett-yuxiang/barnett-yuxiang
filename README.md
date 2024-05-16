@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📍 Current Role
+#### 📍 Current Role
 
 **ByteDance (2020.6 - 2024.5) Full Stack Developer, Infrastructure**
 - Test Infra: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - AI for Testing
 - Mobile Experience and Reliability `@CapCut`
 
-### 📍 Previous Experience
+#### 📍 Previous Experience
 
 **Alibaba (2017 - 2020)**
 
@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 - Maintained gfx stack, managed SurfaceFlinger, HWUI codebase; resolved MediaTek and Samsung platform SF bugs
 - Performance lead for specific device projects
 
-### ⚡ Fun Fact
+#### ⚡ Fun Fact
 Better Dev，AI-driven SWE 3.0
