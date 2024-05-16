@@ -2,7 +2,7 @@
 
 #### 📍 AI powered
 
-> I am involved in the following [`codium.ai`]([https://www.capcut.com](https://www.codium.ai/)) projects
+> <sup>Bootstrap</sup> I am involved in the following [**`codium.ai`**](https://www.codium.ai/) projects
 
 - [PR-Agent](https://github.com/Codium-ai/pr-agent): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
