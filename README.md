@@ -15,14 +15,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Mobile Experience and Reliability
+### 📍 Current Role
+
+**ByteDance (2020.6 - 2024.5) Full Stack Developer, Infrastructure**
 - Engineering Productivity
 - Automation
 - Precise Testing
 - Code Coverage
-- AI for Testing
-- App Competitor Evaluation
 - Cloud Dev
 - API Management
 - ByTrace / ByteHunter
 - Method Trace: `nanoscope`
+- AI for Testing
+- App Competitor Evaluation
+- Mobile Experience and Reliability `@CapCut`
+
+### 📍 Previous Experience
+
+**Alibaba (2017 - 2020)**
+
+> Android Client Engineer, International Business Unit
+
+- Developed Google Play innovation business line
+- Information Stream Business: Participated in architecture reconstruction, planning, designing, and implementing Router component
+- Application performance optimization: KPIs - Crash rate, ANR rate, Launch time
+- Independently owned two innovation projects, building a short video content community for the Indonesian market from scratch
+
+**Meizu Technology (2015 - 2017)**
+
+> Android System Engineer, Flyme OS
+
+- Performance optimization of AOSP
+- Developed and exposed system-level features for Flyme OS
+- Maintained gfx stack, managed SurfaceFlinger, HWUI codebase; resolved MediaTek and Samsung platform SF bugs
+- Performance lead for specific device projects
+
+### ⚡ Fun Fact
+Better Dev，AI-driven SWE 3.0
