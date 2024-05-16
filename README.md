@@ -18,16 +18,11 @@ Here are some ideas to get you started:
 ### 📍 Current Role
 
 **ByteDance (2020.6 - 2024.5) Full Stack Developer, Infrastructure**
-- Engineering Productivity
-- Automation
-- Precise Testing
-- Code Coverage
-- Cloud Dev
-- API Management
-- ByTrace / ByteHunter
-- Method Trace: `nanoscope`
+- Test Infra: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
+- Engineering Productivity: `‌‍⁢‍‍​‌⁢‬⁡⁡⁡⁢⁢⁣‍‌​⁠⁡‍⁣‍﻿​⁤⁠﻿‬⁤​⁤‬‌‍‌‌​⁣‬﻿⁤‌⁣‌﻿​⁣‌‬RD Environment`, `App Competitor Evaluation`
+- Quality and Experience: `Precise Testing`, `Code Coverage`
+- Cloud Dev: `ByteSuite`, `API Management`
 - AI for Testing
-- App Competitor Evaluation
 - Mobile Experience and Reliability `@CapCut`
 
 ### 📍 Previous Experience
