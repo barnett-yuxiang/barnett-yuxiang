@@ -5,7 +5,7 @@
 > <sup>Bootstrap</sup> Involved in the following [**`codium.ai`**](https://www.codium.ai/) and [**`dify.ai`**](https://dify.ai/) projects
 
 - [x] [PR-Agent](https://github.com/Codium-ai/pr-agent): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [x] [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official implementation for the [paper](https://arxiv.org/abs/2401.08500): _"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"_
+- [x] [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official impl for the [paper](https://arxiv.org/abs/2401.08500): _"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"_
 - [ ] **CI-Agent**: Future Project
 - [ ] [langgenius.dify](https://github.com/langgenius/dify): LLMOps
 
