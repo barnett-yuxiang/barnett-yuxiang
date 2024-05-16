@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **ByteDance (2020.6 - 2024.5)**
 
-> Full Stack Developer, Infrastructure Tech Lead
+> Full Stack Developer, Infra Tech Lead
 
 - Test Infra: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
 - Engineering Productivity: `‌‍⁢‍‍​‌⁢‬⁡⁡⁡⁢⁢⁣‍‌​⁠⁡‍⁣‍﻿​⁤⁠﻿‬⁤​⁤‬‌‍‌‌​⁣‬﻿⁤‌⁣‌﻿​⁣‌‬RD Environment`, `App Competitor Evaluation`
