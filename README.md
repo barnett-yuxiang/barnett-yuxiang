@@ -4,9 +4,9 @@
 
 > <sup>Bootstrap</sup> I am involved in the following [**`codium.ai`**](https://www.codium.ai/) projects
 
-- [PR-Agent](https://github.com/Codium-ai/pr-agent): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
-- **CI-Agent**: Future Project
+- [ ] [PR-Agent](https://github.com/Codium-ai/pr-agent): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [ ] [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
+- [ ] **CI-Agent**: Future Project
 
 <!--
 **barnett-yuxiang/barnett-yuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 **ByteDance (2020.6 - 2024.6)**
 
+> [!TIP]
 > Full Stack Developer, Infra Tech Lead
 
 - **Test Infra**: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 
 **Alibaba (2017 - 2020)**
 
+> [!NOTE]
 > Android Client Engineer, International Business Unit
 
 - Developed Google Play innovation business line
@@ -49,6 +51,7 @@ Here are some ideas to get you started:
 
 **Meizu Technology (2015 - 2017)**
 
+> [!NOTE]
 > Android System Engineer, Flyme OS
 
 - Performance optimization of AOSP
@@ -57,4 +60,6 @@ Here are some ideas to get you started:
 - Performance lead for specific device projects
 
 #### ⚡ Fun Fact
+```
 Better Dev，AI-driven SWE 3.0
+```
