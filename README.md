@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 > Android Client Engineer, International Business Unit
 
 - Developed Google Play innovation business line
-- Information Stream Business: Participated in architecture reconstruction, planning, designing, and implementing Router component
+- InfoFeed Business: Participated in app architecture reconstruction, planning, designing, and implementing **Router** component
 - Application performance optimization: KPIs - Crash rate, ANR rate, Launch time
 - Independently owned two innovation projects, building a short video content community for the Indonesian market from scratch
 
