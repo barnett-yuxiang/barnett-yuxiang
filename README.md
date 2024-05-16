@@ -1,7 +1,5 @@
 ### Hey, you 뭘 보니? 👋
 
-
-
 <!--
 **barnett-yuxiang/barnett-yuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,16 +17,16 @@ Here are some ideas to get you started:
 
 #### 📍 Current Role
 
-**ByteDance (2020.6 - 2024.5)**
+**ByteDance (2020.6 - 2024.6)**
 
 > Full Stack Developer, Infra Tech Lead
 
-- Test Infra: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
-- Engineering Productivity: `‌‍⁢‍‍​‌⁢‬⁡⁡⁡⁢⁢⁣‍‌​⁠⁡‍⁣‍﻿​⁤⁠﻿‬⁤​⁤‬‌‍‌‌​⁣‬﻿⁤‌⁣‌﻿​⁣‌‬RD Environment`, `App Competitor Evaluation`
-- Quality and Experience: `Precise Testing`, `Code Coverage`
-- Cloud Dev: `ByteSuite`, `API Management`
-- AI for Testing
-- Mobile Experience and Reliability `@CapCut`
+- **Test Infra**: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
+- **Engineering Productivity**: `‌‍⁢‍‍​‌⁢‬⁡⁡⁡⁢⁢⁣‍‌​⁠⁡‍⁣‍﻿​⁤⁠﻿‬⁤​⁤‬‌‍‌‌​⁣‬﻿⁤‌⁣‌﻿​⁣‌‬RD Environment`, `App Competitor Evaluation`
+- **Quality and Experience**: `Precise Testing`, `Code Coverage`
+- **Cloud Dev**: `ByteSuite`, `API Management`
+- **AI for Testing**
+- **Mobile Experience and Reliability** [`@CapCut`](https://www.capcut.com)
 
 #### 📍 Previous Experience
 
@@ -37,8 +35,8 @@ Here are some ideas to get you started:
 > Android Client Engineer, International Business Unit
 
 - Developed Google Play innovation business line
-- InfoFeed Business: Participated in app architecture reconstruction, planning, designing, and implementing **Router** component
-- Application performance optimization: KPIs - Crash rate, ANR rate, Launch time
+- InfoFeed Business: Participated in app architecture reconstruction, planning, designing, and implementing **`Router`** component
+- Application performance optimization: KPIs - **`Crash rate`**, **`ANR rate`**, **`Launch time`**, **`FPS`**
 - Independently owned two innovation projects, building a short video content community for the Indonesian market from scratch
 
 **Meizu Technology (2015 - 2017)**
