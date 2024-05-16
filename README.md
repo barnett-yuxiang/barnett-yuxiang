@@ -1,5 +1,11 @@
 ### Hey, you 뭘 보니? 👋
 
+### 📍 AI Projects
+
+- [PR-Agent](https://github.com/Codium-ai/pr-agent)
+- [AlphaCodium](https://github.com/Codium-ai/AlphaCodium)
+- Future project: **CI-Agent**
+
 <!--
 **barnett-yuxiang/barnett-yuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
