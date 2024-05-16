@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 #### 📍 Current Role
 
-**ByteDance (2020.6 - 2024.5) Full Stack Developer, Infrastructure**
+**ByteDance (2020.6 - 2024.5)**
+
+> Full Stack Developer, Infrastructure Tech Lead
+
 - Test Infra: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
 - Engineering Productivity: `‌‍⁢‍‍​‌⁢‬⁡⁡⁡⁢⁢⁣‍‌​⁠⁡‍⁣‍﻿​⁤⁠﻿‬⁤​⁤‬‌‍‌‌​⁣‬﻿⁤‌⁣‌﻿​⁣‌‬RD Environment`, `App Competitor Evaluation`
 - Quality and Experience: `Precise Testing`, `Code Coverage`
