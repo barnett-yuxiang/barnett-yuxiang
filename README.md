@@ -1,10 +1,12 @@
 ### Hey, you 뭘 보니? 👋
 
-### 📍 AI Projects
+#### 📍 AI powered
 
-- [PR-Agent](https://github.com/Codium-ai/pr-agent)
-- [AlphaCodium](https://github.com/Codium-ai/AlphaCodium)
-- Future project: **CI-Agent**
+> I am involved in the following [`codium.ai`]([https://www.capcut.com](https://www.codium.ai/)) projects
+
+- [PR-Agent](https://github.com/Codium-ai/pr-agent): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
+- **CI-Agent**: Future Project
 
 <!--
 **barnett-yuxiang/barnett-yuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
