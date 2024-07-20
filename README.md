@@ -8,6 +8,7 @@
 - [x] [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official impl for the [paper](https://arxiv.org/abs/2401.08500): _"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"_
 - [x] **CI-Agent**: [cover-agent](https://github.com/Codium-ai/cover-agent): An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [ ] [langgenius.dify](https://github.com/langgenius/dify): LLMOps
+- [ ] AI code assistant
 
 <!--
 **barnett-yuxiang/barnett-yuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
