@@ -1,11 +1,11 @@
-### Hey, you 뭘 보니? 👋
+## Hey, you 뭘 보니? 👋
 
-#### ⚡ Fun Fact
+### ⚡ Fun Fact
 ```
 Better Dev，AI-driven SWE 3.0
 ```
 
-#### 📍 AI powered
+### 📍 AI powered
 
 > <sup>Bootstrap</sup> Involved in the following [**`codium.ai`**](https://www.codium.ai/) and [**`dify.ai`**](https://dify.ai/) projects
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 📍 Current Role
+### 📍 Current Role
 
 **StarGate Technology (2025.06 - Present)**
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - **Direction**: `1v1` across `PWA/H5`, `iOS`, and `Android`
 
-#### 📍 Previous Experience
+### 📍 Previous Experience
 
 **Freelancer (2024.6 - 2025.06)**
 
