@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 > [!NOTE]
 > Full Stack Developer, Infra Tech Lead
 
-- **Test Infra**: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
-- **Engineering Productivity**: `R&D Environment`, `App Competitor Evaluation`
-- **Quality and Experience**: `Precise Testing`, `Code Coverage`
-- **Cloud Dev**: `ByteSuite`, `Observability`, `API Management`
-- **AI for Testing**
-- **Mobile Experience and Reliability** [`@CapCut`](https://www.capcut.com)
+- Test Infra: **`ByTrace`** / **`ByteHunter`**, **`Automation`**, Method Trace: **`nanoscope`**
+- Engineering Productivity: **`R&D Environment`**, **`App Competitor Evaluation`**
+- Quality and Experience: **`Precise Testing`**, **`Code Coverage`**
+- Cloud Dev: **`ByteSuite`**, **`O11y`**, **`API Management`**
+- AI for Testing: **`Smart UT`**
+- Mobile Experience and Reliability: [**`@CapCut`**](https://www.capcut.com)
 
 ---
 
