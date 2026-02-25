@@ -1,8 +1,10 @@
 ### Hey, you 뭘 보니? 👋
 
 ### ⚡ Fun Fact
+
 ```
-Better Dev，AI-driven SWE 3.0
+From Vibe Coding to Agentic Engineering
+Better Dev, AI-driven SWE 3.x
 ```
 
 <!--
@@ -27,7 +29,9 @@ Here are some ideas to get you started:
 > [!TIP]
 > Business Owner
 
-- **Direction**: `1v1` product across `PWA`, `H5`, `iOS`, `Android`
+- Direction: **`1-on-1`** across **`PWA`**, **`WebView H5`**, **`iOS`**, **`Android`**
+- Ads: **`FB`**, **`TT`**, **`GG`**, **`Telegram Mini App`**
+- AGI: Applied **`OpenClaw`** to **`SEO`** workflow
 
 ### 📍 Previous Experience
 
@@ -36,7 +40,7 @@ Here are some ideas to get you started:
 > [!NOTE]
 > AI-for-Coding Product Builder, U.S. Stock Daily Trading
 
-- **AI powered**: Contributed to product development in [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), [Dify](https://github.com/langgenius/dify)
+- **AI for Coding & LLM Workflows**: Contributed to product development in [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), [Dify](https://github.com/langgenius/dify)
 - **Trader**: Annual Return **`+20%`**, Trades/Year **`120`** (~2-3/week), Win Rate **`47%`**, Avg R:R **`1.6:1`**
 
 ---
@@ -60,10 +64,10 @@ Here are some ideas to get you started:
 > [!NOTE]
 > Android Client Engineer, International Business Unit
 
-- Developed Google Play innovation business line
-- InfoFeed Business: Participated in app architecture reconstruction, planning, designing, and implementing **`Router`** component
-- Application performance optimization: KPIs - **`Crash rate`**, **`ANR rate`**, **`Launch time`**, **`FPS`**
-- Independently owned two innovation projects, building a short video content community for the Indonesian market from scratch
+- Developed Google Play innovation product lines for international markets.
+- Led InfoFeed architecture upgrades and implemented the **`Router`** component.
+- Improved key app KPIs: **`Crash rate`**, **`ANR rate`**, **`Launch time`**, **`FPS`**.
+- Owned two 0-to-1 projects, including a short-video community app for Indonesia.
 
 ---
 
@@ -72,7 +76,7 @@ Here are some ideas to get you started:
 > [!NOTE]
 > Android System Engineer, Flyme OS
 
-- Performance optimization of **`AOSP`**
-- Developed and exposed system-level features for Flyme OS
-- Maintained gfx stack, managed **`SurfaceFlinger`**, **`HWUI`** codebase; resolved MediaTek and Samsung platform SF bugs
-- Performance lead for specific device projects
+- Optimized core **`AOSP`** performance for Flyme OS.
+- Developed and shipped system-level features for Flyme OS.
+- Maintained **`SurfaceFlinger`** and **`HWUI`**, and fixed platform-specific rendering issues on MediaTek and Samsung devices.
+- Led performance tuning for selected device programs.
