@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 **StarGate Technology (2025.06 - Present)**
 
+#### 📍 Previous Experience
+
 **Freelancer (2024.6 - 2025.06)**
 
 **ByteDance (2020.6 - 2024.5)**
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
 - **Cloud Dev**: `ByteSuite`, `Observability`, `API Management`
 - **AI for Testing**
 - **Mobile Experience and Reliability** [`@CapCut`](https://www.capcut.com)
-
-#### 📍 Previous Experience
 
 **Alibaba (2017 - 2020)**
 
