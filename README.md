@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 > [!TIP]
 > Business Owner
 
-- **Direction**: `1v1` across `PWA/H5`, `iOS`, and `Android`
+- **Direction**: `1v1` across `PWA`, `H5`, `iOS`, `Android`
 
 ### 📍 Previous Experience
 
 **Freelancer (2024.6 - 2025.06)**
 
 > [!NOTE]
-> Built AI-powered tools and LLM workflows for product and engineering.
+> AI-for-Coding Product Builder and U.S. Stock Day Trader
 
-- **AI powered**: [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), and [Dify](https://github.com/langgenius/dify)
-- **Trader**: Day Trading @ U.S. Stock Market, **Metrics**: `+20%` annual return | `120` trades/year (~2-3 per week) | `47%` win rate | `1.6:1` avg R:R
+- **AI for Coding**: Contributed to product development in [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), and [Dify](https://github.com/langgenius/dify)
+- **U.S. Stock Day Trading**: **Annual Return** `+20%` | **Trades/Year** `120` (~2-3/week) | **Win Rate** `47%` | **Avg R:R** `1.6:1`
 
 **ByteDance (2020.6 - 2024.5)**
 
