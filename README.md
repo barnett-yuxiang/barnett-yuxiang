@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 📍 Current Role
 
-**StarGate Technology (2025.06 - Present)**
+**StarGate Technology (2025.07 - Present)**
 
 > [!TIP]
 > Business Owner
@@ -31,23 +31,23 @@ Here are some ideas to get you started:
 
 ### 📍 Previous Experience
 
-**Freelancer (2024.6 - 2025.06)**
+**Freelancer (2024.06 - 2025.06)**
 
 > [!NOTE]
 > AI-for-Coding Product Builder, U.S. Stock Daily Trading
 
-- **AI for Coding**: Contributed to product development in [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), [Dify](https://github.com/langgenius/dify)
-- **Trader**: **Annual Return** `+20%` | **Trades/Year** `120` (~2-3/week) | **Win Rate** `47%` | **Avg R:R** `1.6:1`
+- **AI powered**: Contributed to product development in [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), [Dify](https://github.com/langgenius/dify)
+- **Trader**: Annual Return **`+20%`**, Trades/Year **`120`** (~2-3/week), Win Rate **`47%`**, Avg R:R **`1.6:1`**
 
 ---
 
-**ByteDance (2020.6 - 2024.5)**
+**ByteDance (2020.06 - 2024.05)**
 
 > [!NOTE]
 > Full Stack Developer, Infra Tech Lead
 
 - **Test Infra**: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
-- **Engineering Productivity**: `‌‍⁢‍‍​‌⁢‬⁡⁡⁡⁢⁢⁣‍‌​⁠⁡‍⁣‍﻿​⁤⁠﻿‬⁤​⁤‬‌‍‌‌​⁣‬﻿⁤‌⁣‌﻿​⁣‌‬RD Environment`, `App Competitor Evaluation`
+- **Engineering Productivity**: `R&D Environment`, `App Competitor Evaluation`
 - **Quality and Experience**: `Precise Testing`, `Code Coverage`
 - **Cloud Dev**: `ByteSuite`, `Observability`, `API Management`
 - **AI for Testing**
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Alibaba (2017 - 2020)**
+**Alibaba (2017.03 - 2020.04)**
 
 > [!NOTE]
 > Android Client Engineer, International Business Unit
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Meizu Technology (2015 - 2017)**
+**Meizu Technology (2015.01 - 2017.03)**
 
 > [!NOTE]
 > Android System Engineer, Flyme OS
