@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - **AI for Coding**: Contributed to product development in [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), [Dify](https://github.com/langgenius/dify)
 - **Trader**: **Annual Return** `+20%` | **Trades/Year** `120` (~2-3/week) | **Win Rate** `47%` | **Avg R:R** `1.6:1`
 
+
 **ByteDance (2020.6 - 2024.5)**
 
 > [!NOTE]
