@@ -1,4 +1,4 @@
-## Hey, you 뭘 보니? 👋
+### Hey, you 뭘 보니? 👋
 
 ### ⚡ Fun Fact
 ```
