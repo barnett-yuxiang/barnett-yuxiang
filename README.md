@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - **AI for Coding**: Contributed to product development in [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), [Dify](https://github.com/langgenius/dify)
 - **Trader**: **Annual Return** `+20%` | **Trades/Year** `120` (~2-3/week) | **Win Rate** `47%` | **Avg R:R** `1.6:1`
 
+---
 
 **ByteDance (2020.6 - 2024.5)**
 
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 - **AI for Testing**
 - **Mobile Experience and Reliability** [`@CapCut`](https://www.capcut.com)
 
+---
+
 **Alibaba (2017 - 2020)**
 
 > [!NOTE]
@@ -61,6 +64,8 @@ Here are some ideas to get you started:
 - InfoFeed Business: Participated in app architecture reconstruction, planning, designing, and implementing **`Router`** component
 - Application performance optimization: KPIs - **`Crash rate`**, **`ANR rate`**, **`Launch time`**, **`FPS`**
 - Independently owned two innovation projects, building a short video content community for the Indonesian market from scratch
+
+---
 
 **Meizu Technology (2015 - 2017)**
 
