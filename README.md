@@ -5,16 +5,6 @@
 Better Dev，AI-driven SWE 3.0
 ```
 
-### 📍 AI powered
-
-> <sup>Bootstrap</sup> Involved in the following [**`codium.ai`**](https://www.codium.ai/) and [**`dify.ai`**](https://dify.ai/) projects
-
-- [x] [PR-Agent](https://github.com/Codium-ai/pr-agent): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [x] [AlphaCodium](https://github.com/Codium-ai/AlphaCodium): Official impl for the [paper](https://arxiv.org/abs/2401.08500): _"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"_
-- [x] **CI-Agent**: [cover-agent](https://github.com/Codium-ai/cover-agent): An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [ ] [langgenius.dify](https://github.com/langgenius/dify): LLMOps
-- [ ] AI code assistant
-
 <!--
 **barnett-yuxiang/barnett-yuxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,6 +32,12 @@ Here are some ideas to get you started:
 ### 📍 Previous Experience
 
 **Freelancer (2024.6 - 2025.06)**
+
+> [!NOTE]
+> Built AI-powered tools and LLM workflows for product and engineering.
+
+- **AI powered**: [PR-Agent](https://github.com/Codium-ai/pr-agent), [AlphaCodium](https://github.com/Codium-ai/AlphaCodium), [cover-agent](https://github.com/Codium-ai/cover-agent), and [Dify](https://github.com/langgenius/dify)
+- **Trader**: Day Trading @ U.S. Stock Market, **Metrics**: `+20%` annual return | `120` trades/year (~2-3 per week) | `47%` win rate | `1.6:1` avg R:R
 
 **ByteDance (2020.6 - 2024.5)**
 
