@@ -1,5 +1,10 @@
 ### Hey, you 뭘 보니? 👋
 
+#### ⚡ Fun Fact
+```
+Better Dev，AI-driven SWE 3.0
+```
+
 #### 📍 AI powered
 
 > <sup>Bootstrap</sup> Involved in the following [**`codium.ai`**](https://www.codium.ai/) and [**`dify.ai`**](https://dify.ai/) projects
@@ -27,7 +32,11 @@ Here are some ideas to get you started:
 
 #### 📍 Current Role
 
-**ByteDance (2020.6 - 2024.6)**
+**StarGate Technology (2025.06 - Present)**
+
+**Freelancer (2024.6 - 2025.06)**
+
+**ByteDance (2020.6 - 2024.5)**
 
 > [!TIP]
 > Full Stack Developer, Infra Tech Lead
@@ -60,8 +69,3 @@ Here are some ideas to get you started:
 - Developed and exposed system-level features for Flyme OS
 - Maintained gfx stack, managed SurfaceFlinger, HWUI codebase; resolved MediaTek and Samsung platform SF bugs
 - Performance lead for specific device projects
-
-#### ⚡ Fun Fact
-```
-Better Dev，AI-driven SWE 3.0
-```
