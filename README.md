@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 > [!NOTE]
 > Android System Engineer, Flyme OS
 
-- Performance optimization of AOSP
+- Performance optimization of **`AOSP`**
 - Developed and exposed system-level features for Flyme OS
-- Maintained gfx stack, managed SurfaceFlinger, HWUI codebase; resolved MediaTek and Samsung platform SF bugs
+- Maintained gfx stack, managed **`SurfaceFlinger`**, **`HWUI`** codebase; resolved MediaTek and Samsung platform SF bugs
 - Performance lead for specific device projects
