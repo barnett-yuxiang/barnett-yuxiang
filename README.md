@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 > [!TIP]
 > Business Owner
 
-- **Direction**: `1v1` across `PWA`, `H5`, `iOS`, `Android`
+- **Direction**: `1v1` product across `PWA`, `H5`, `iOS`, `Android`
 
 ### 📍 Previous Experience
 
