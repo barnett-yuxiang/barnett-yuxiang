@@ -34,13 +34,18 @@ Here are some ideas to get you started:
 
 **StarGate Technology (2025.06 - Present)**
 
+> [!TIP]
+> Business Owner
+
+- **Direction**: `1v1` across `PWA/H5`, `iOS`, and `Android`
+
 #### 📍 Previous Experience
 
 **Freelancer (2024.6 - 2025.06)**
 
 **ByteDance (2020.6 - 2024.5)**
 
-> [!TIP]
+> [!NOTE]
 > Full Stack Developer, Infra Tech Lead
 
 - **Test Infra**: `ByTrace` / `ByteHunter`, `Automation`, Method Trace: `nanoscope`
