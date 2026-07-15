@@ -3,8 +3,9 @@
 ### ⚡ Fun Fact
 
 ```
-From Vibe Coding to Agentic Engineering
-Better Dev, AI-driven SWE 3.x
+2026 → Building the Harness, Running the Loop
+2025 → From Vibe Coding to Agentic Engineering
+2024 → Better Dev, AI-driven SWE 3.x
 ```
 
 <!--
@@ -80,3 +81,12 @@ Here are some ideas to get you started:
 - Developed and shipped system-level features for Flyme OS.
 - Maintained **`SurfaceFlinger`** and **`HWUI`**, and fixed platform-specific rendering issues on MediaTek and Samsung devices.
 - Led performance tuning for selected device programs.
+
+---
+
+### 🗣 Recent Activity
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
