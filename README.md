@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 > [!TIP]
 > Business Owner
 
-- Direction: **`1-on-1`** across **`PWA`**, **`WebView H5`**, **`iOS`**, **`Android`**
+- Direction: **`1-on-1 video chat`** across **`Web/PWA`**, **`WebView H5`**, **`iOS`**, **`Android`**
 - Ads: **`FB`**, **`TT`**, **`GG`**, **`Telegram Mini App`**
 - AGI: Applied **`OpenClaw`** to **`SEO`** workflow
 
