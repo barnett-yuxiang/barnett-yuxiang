@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 > Business Owner
 
 - Direction: **`1-on-1 video chat`** across **`Web/PWA`**, **`WebView H5`**, **`iOS`**, **`Android`**
-- Ads: **`FB`**, **`TT`**, **`GG`**, **`Telegram Mini App`**
+- Ads: **`FB`**, **`TT`**, **`GG`**, **`SC`**, **`Telegram Mini App`**
 - AGI: Applied **`OpenClaw`** to **`SEO`** workflow
 
 ### 📍 Previous Experience
@@ -85,6 +85,15 @@ Here are some ideas to get you started:
 ---
 
 ### 🗣 Recent Activity
+
+> [!NOTE]
+> Researching the 1-on-1 social video business: model, economics, and data.
+
+- **Model**: Coin top-ups → per-minute calls, gifts, VIP; hosts take a revenue share via agencies.
+- **Economics**: Payers × **`ARPPU`**, minus host payout, channel fees (stores vs. Web/PWA), and UA cost.
+- **Marketplace**: Host supply vs. payer demand by region and time zone; connect rate, call duration.
+- **Growth**: Install → match → first top-up; CPI, D7/D30 **`ROAS`**, LTV across FB / TT / GG / Telegram.
+- **Safety**: Moderation, fraud and chargeback control.
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:last_update_end-->
