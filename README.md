@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 📍 Current Role
 
-**Stargate Entertainment Co., Limited (2025.07 - Present)**
+**StarGate Entertainment Co., Limited (2025.07 - Present)**
 
 > [!TIP]
 > Business Owner
